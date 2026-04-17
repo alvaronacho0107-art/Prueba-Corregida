@@ -1,0 +1,29 @@
+
+
+
+
+/*Esta clase se usa para colocar el fondo del navbar a rojo*/
+.nav{
+    background-color: crimson;
+    
+}
+
+/*esta clase centra el texto, le coloca un margenautomatico, hace que el tamaño horizontal maximo sea de 500px y coloca el fondo de color rojo, lo uso en inicio*/
+
+.centrarcolor{
+
+  text-align: center;
+     margin: 0 auto; 
+     max-width: 500px;
+background-color: crimson;
+
+}
+/*esta clase se usa para controlar el tamaño de una imagen y hacerla redonda, la uso en la foto de bigmac*/
+.img1{
+    
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 40%;;
+ 
+}
+
